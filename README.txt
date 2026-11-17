@@ -1,0 +1,1 @@
+Simulates varying levels of noise within a rotated surface code using STIM. Allows for great user flexibility with parameter input towards varying error probability through different forms of error (x or z flips, dephasing noise, measurement error), and spatial non-homogeneity between qubits. Calculates error threshold and produces heatmaps.
